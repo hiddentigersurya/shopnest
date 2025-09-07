@@ -1,12 +1,36 @@
-# React + Vite
+# 🛍️ ShopNest – React Shopping Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **ShopNest**, a sleek and responsive e-commerce web app built with **React** and styled using **CSS**. This project was designed not just to simulate a modern shopping experience, but also to deepen my understanding of **React Hooks** and **Redux** for state management.
 
-Currently, two official plugins are available:
+## 🚀 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ShopNest offers users a smooth and intuitive interface to browse products, manage a cart, and simulate checkout. It’s a front-end focused project that demonstrates component-based architecture, dynamic rendering, and centralized state control.
 
-## Expanding the ESLint configuration
+### 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**:  
+  - React (with functional components)  
+  - CSS for styling and layout  
+  - React Router for navigation  
+  - Redux for global state management  
+  - React Hooks (useState, useEffect, useReducer, etc.)
+
+## 📦 Features
+
+- Product listing with dynamic rendering  
+- Add/remove items from cart  
+- Cart summary and simulated checkout  
+- Responsive design for mobile and desktop  
+- Centralized state using Redux  
+- Clean separation of components and logic
+
+## 🧠 Learning Focus
+
+This project was a hands-on deep dive into:
+- **React Hooks**: mastering lifecycle and state logic without classes  
+- **Redux**: implementing a scalable state architecture for complex UI flows  
+- Component reusability and modular design
+
+
+
+Let me know if you'd like to add deployment instructions, screenshots, or a live demo badge!
